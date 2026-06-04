@@ -1,0 +1,73 @@
+📊 Analisis Statistik Kemiskinan Jawa Tengah 2025
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Tengah tahun 2025 menggunakan data dari Badan Pusat Statistik (BPS).
+
+Analisis dilakukan untuk mengetahui:
+Jumlah penduduk miskin di setiap daerah
+Persentase kemiskinan kabupaten/kota
+Proporsi data kemiskinan
+Varians data (S²)
+Perbedaan tingkat kemiskinan antar wilayah
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Tengah tahun 2025
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Melatih kemampuan analisis data statistik menggunakan Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Visualisasi Data
+
+Dataset
+Sumber data:
+Badan Pusat Statistik (BPS) Jawa Tengah 2025
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Jumlah Penduduk Miskin
+Persentase Kemiskinan
+Proporsi Data
+Nilai Deviasi (xi − x̄)
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan persentase
+Perhitungan proporsi
+Perhitungan varians (S²)
+Penyajian grafik data
+Interpretasi hasil analisis
+
+Tahapan pengolahan data:
+Menginput data ke Microsoft Excel
+Membuat tabel data
+Menghitung statistik data
+Menghitung proporsi dan varians
+Menyusun visualisasi grafik
+Menafsirkan hasil analisis
+
+Hasil Analisis
+Hasil analisis menunjukkan bahwa:
+Kabupaten Brebes memiliki tingkat kemiskinan tertinggi dengan persentase sebesar 14,15%
+Kabupaten Kebumen, Wonosobo, Pemalang, dan Banjarnegara juga memiliki tingkat kemiskinan yang relatif tinggi
+Kota Semarang memiliki tingkat kemiskinan terendah sebesar 3,80%, diikuti oleh Kota Salatiga sebesar 4,20%
+Rata-rata persentase kemiskinan di Jawa Tengah sebesar 9,93%
+Nilai varians (S² = 60,21) menunjukkan adanya variasi tingkat kemiskinan antar kabupaten/kota di Jawa Tengah
+Data ini menunjukkan bahwa masih terdapat perbedaan tingkat kesejahteraan antar wilayah yang menjadi tantangan dalam upaya pemerataan pembangunan dan pengentasan kemiskinan.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+Data Cleaning
+Analisis Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
+
+#Data Analysis #Statistics #Excel #BPS Kemiskinan Jawa Tengah #Data Analytics #Portfolio
